@@ -1,0 +1,25 @@
+{
+    "number":1,
+    "name": "Классическая колода",
+    "cards": ["chariot", "cups01", "cups02","cups03", "cups04", "cups05", "cups06", "cups07", "cups08", "cups09",
+    "cups10", "cups11", "cups12", "cups13", "cups14", "death", "devil", "fortune", "hanged_man", "hermit", "hierofant", 
+    "imperor", "impress", "justise", "lovers", "mag", "moon", "pents01", "pents02", "pents03", "pents04", "pents05", 
+    "pents06", "pents07", "pents08", "pents09", "pents10", "pents11", "pents12", "pents13", "pents14", "shut", "stare", 
+    "strenghch", "sud", "sun", "swords01", "swords02", "swords03", "swords04", "swords05", "swords06", "swords07", "swords08",
+    "swords09", "swords10", "swords11", "swords12", "swords13", "swords14", "temperam", "tower", "wands01", "wands02", "wands03",
+    "wands04", "wands05", "wands06", "wands07", "wands08", "wands09", "wands10", "wands11", "wands12", "wands13", "wands14",
+    "world", "zhrica"],
+    "imagePath": "https://mad-batm.github.io/taro_info/docs/classic/",
+
+    "number":2,
+    "name": "Классическая колода",
+    "cards": ["chariot", "cups01", "cups02","cups03", "cups04", "cups05", "cups06", "cups07", "cups08", "cups09",
+    "cups10", "cups11", "cups12", "cups13", "cups14", "death", "devil", "fortune", "hanged_man", "hermit", "hierofant", 
+    "imperor", "impress", "justise", "lovers", "mag", "moon", "pents01", "pents02", "pents03", "pents04", "pents05", 
+    "pents06", "pents07", "pents08", "pents09", "pents10", "pents11", "pents12", "pents13", "pents14", "shut", "stare", 
+    "strenghch", "sud", "sun", "swords01", "swords02", "swords03", "swords04", "swords05", "swords06", "swords07", "swords08",
+    "swords09", "swords10", "swords11", "swords12", "swords13", "swords14", "temperam", "tower", "wands01", "wands02", "wands03",
+    "wands04", "wands05", "wands06", "wands07", "wands08", "wands09", "wands10", "wands11", "wands12", "wands13", "wands14",
+    "world", "zhrica"],
+    "imagePath": "https://mad-batm.github.io/taro_info/docs/mistic/"
+  }
