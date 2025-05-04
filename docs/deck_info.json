@@ -9,7 +9,7 @@
     "swords09", "swords10", "swords11", "swords12", "swords13", "swords14", "temperam", "tower", "wands01", "wands02", "wands03",
     "wands04", "wands05", "wands06", "wands07", "wands08", "wands09", "wands10", "wands11", "wands12", "wands13", "wands14",
     "world", "zhrica"],
-    "imagePath": "https://mad-batm.github.io/taro_info/docs/classic/",
+    "imagePath": "https://mad-batm.github.io/taro_info/classic/",
 
     "number":2,
     "name": "Классическая колода",
@@ -21,5 +21,5 @@
     "swords09", "swords10", "swords11", "swords12", "swords13", "swords14", "temperam", "tower", "wands01", "wands02", "wands03",
     "wands04", "wands05", "wands06", "wands07", "wands08", "wands09", "wands10", "wands11", "wands12", "wands13", "wands14",
     "world", "zhrica"],
-    "imagePath": "https://mad-batm.github.io/taro_info/docs/mistic/"
+    "imagePath": "https://mad-batm.github.io/taro_info/mistic/"
   }
